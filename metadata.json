@@ -1,0 +1,8 @@
+{
+  "name": "Wandr",
+  "description": "A social-first tourist attraction platform where serenity meets adventure. Share moments, book experiences, and explore with AI-powered guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
